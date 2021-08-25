@@ -35,7 +35,7 @@ SimpleITK==1.2.4
 six==1.15.0
 tensorboard==1.15.0
 tensorflow-estimator==1.15.1
-tensorflow-gpu==1.15.3
+tensorflow-gpu==2.5.1
 termcolor==1.1.0
 tifffile==2020.7.24
 torch==1.6.0
