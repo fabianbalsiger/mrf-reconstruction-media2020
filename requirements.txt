@@ -21,7 +21,7 @@ pandas==1.1.0
 Pillow==7.2.0
 pkg-resources==0.0.0
 plotly==4.9.0
-protobuf==3.12.4
+protobuf==3.18.3
 pymia==0.2.4
 pyparsing==2.4.7
 python-dateutil==2.8.1
